@@ -1,0 +1,18 @@
+{
+    "short_name": "Lovers",
+    "name": "Lovers",
+    "description": "Lovers Dating Service",
+    "theme_color": "#6946e0",
+    "background_color": "#6946e0",
+    "display": "standalone",
+    "scope": "./",
+    "orientation": "portrait",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "/assets/images/lovers.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
